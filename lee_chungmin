@@ -1,0 +1,2 @@
+my_favorite_food = 'apple mango'
+print (my_favorite_food)
